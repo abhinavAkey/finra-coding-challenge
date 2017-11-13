@@ -1,0 +1,19 @@
+.main {
+    padding: 30px;
+    max-width:720px;
+}
+.file-upload {
+	color: #ffffff !important;
+}
+
+@media (max-width: 48em) {
+    .main {
+    	margin-left: 225px !important;
+    }
+}
+
+@media (max-width: 40em) {
+    .pure-form-message-inline {
+        margin-left: 155px;
+    }
+}
