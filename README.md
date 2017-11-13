@@ -42,10 +42,17 @@ java -jar coding-challenge-0.0.1-SNAPSHOT.jar
 
 #### Once you load the project the initial screen will look like this.
 
+![postman](https://user-images.githubusercontent.com/20955979/32707983-85d02a4c-c7f5-11e7-8cd0-fe1055e29136.png)
+
 #### Click on the tab that says ```Add File & Meta Data``` to open the view that displays the meta data fields and option to browse the file. All the fields are required. The view looks as below
+
+![postman](https://user-images.githubusercontent.com/20955979/32707984-861895a2-c7f5-11e7-88a9-4139bf36ec47.png)
 
 #### Once you add all the fields and click ```Add File Meta Data``` button then your data will be saved. 
 
-#### After the data is saved, you will be taken to the page as shown below.
+![postman](https://user-images.githubusercontent.com/20955979/32707981-84e81338-c7f5-11e7-8a82-e42fddab1f6e.png)
 
-#### You can also go to the above page by clicking on ```Get File and Meta Data```.
+#### After the data is saved, you will be taken to the page as shown below. You can also go to the below page by clicking on ```Get File and Meta Data```.
+
+![postman](https://user-images.githubusercontent.com/20955979/32707982-8562814a-c7f5-11e7-8c5e-459af7339fd5.png)
+
